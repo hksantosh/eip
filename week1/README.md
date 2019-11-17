@@ -1,9 +1,9 @@
 # HK Santosh - EIP 4 - Week 1
 
 ## CNN Result/Score: [0.04768682908062915, 0.9901]
-Score of more than 99 was achieved by using additional convolution layers. 
-1st_DNN_tf2.ipynb is the notebook which contains improved results and also has changes to adapt to Tensorflow 2
-1st_DNN.ipynb (ignore this for now) - This has improved results but uses Tensorflow 1.x and is not tuned to exceed the score of 99
+* Score of more than 99 was achieved by using additional convolution layers. 
+* 1st_DNN_tf2.ipynb is the notebook which contains improved results and also has changes to adapt to Tensorflow 2
+* 1st_DNN.ipynb (ignore this for now) - This has improved results but uses Tensorflow 1.x and is not tuned to exceed the score of 99
 
 
 ## Definitions
