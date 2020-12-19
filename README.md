@@ -1,2 +1,2 @@
 # TSAI
-HK Santosh's github repository for "The School of AI" projects & assignments
+HK Santosh's repository for "The School of AI" programs & workshops
