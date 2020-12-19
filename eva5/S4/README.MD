@@ -10,9 +10,9 @@
 The model consistently returns accuracy of over 99.4 within 20 epochs. At times, the accuracy returned is above 99.5. Highest observed accuracy from various experiments stands at 99.55
 
 ## Stats
-**No. of parameters** in the model: **18,718**
-Batch size: 64
-Optimizer: SGD
-Learning Rate: 0.095
-Momentum: 0.95
-**Best Epoch: #19**, average loss: 0.0159, **Accuracy: 99.55%**
+* **No. of parameters** in the model: **18,718**
+* Batch size: 64
+* Optimizer: SGD
+* Learning Rate: 0.095
+* Momentum: 0.95
+* **Best Epoch: #19**, average loss: 0.0159, **Accuracy: 99.55%**
